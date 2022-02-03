@@ -2,7 +2,7 @@
 
 This project has been created using **webpack-cli**, you can now run
 
-Start 
+Start
 
 ```
 make serve
@@ -13,7 +13,9 @@ compile less file
 ```
 make less
 ```
+
 Bundle
 
+```
 make build
-
+```

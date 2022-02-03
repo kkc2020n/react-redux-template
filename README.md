@@ -2,14 +2,18 @@
 
 This project has been created using **webpack-cli**, you can now run
 
-```
-npm run build
-```
-
-or
+Start 
 
 ```
-yarn build
+make serve
 ```
 
-to bundle your application
+compile less file
+
+```
+make less
+```
+Bundle
+
+make build
+
